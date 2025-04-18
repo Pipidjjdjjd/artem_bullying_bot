@@ -3,7 +3,7 @@ import random
 import os
 
 # Получаем токен из переменной окружения
-TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TOKEN = os.environ.get(7776152381:AAFjympZGGlfZ7DnSjEOyCkjDMThnDo9Po8)
 bot = telebot.TeleBot(TOKEN)
 
 # Имя жертвы
